@@ -34,6 +34,9 @@ Here's a walkthrough of implemented user stories:
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
+![](https://github.com/clearFrost/Flixsterplus/blob/master/preview1.gif)
+![](https://github.com/clearFrost/Flixsterplus/blob/master/preview2.gif)
+
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
