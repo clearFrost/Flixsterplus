@@ -22,10 +22,6 @@ The following **optional** features are implemented:
 - [x] **Add rounded corners to the images using the Glide transformations**
 - [ ] **Implement a shared element transition when user clicks into the details of a movie**
 
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
@@ -39,7 +35,7 @@ GIF created with  [ScreenToGif](https://www.screentogif.com/) for Windows
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The biggest difficulty I had while building this project was packaging up the elements of a movie to use in another activity. In this case it was the DetailActivity. However it was made possible through parcelable, parcelable made it easy to send data between activities.
 
 ## License
 
