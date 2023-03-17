@@ -10,7 +10,7 @@ import com.codepath.asynchttpclient.RequestParams
 import com.codepath.asynchttpclient.callback.JsonHttpResponseHandler
 import okhttp3.Headers
 
-const private val NOW_PLAYING_URL="https://api.themoviedb.org/3/movie/now_playing?api_key=a07e22bc18f5cb106bfe4cc1f83ad8ed"
+const private val TOP_RATED_URL="https://api.themoviedb.org/3/movie/top_rated?api_key=a07e22bc18f5cb106bfe4cc1f83ad8ed"
 
 class MainActivity : AppCompatActivity() {
     private val movies = mutableListOf<Movie>()
@@ -30,7 +30,7 @@ class MainActivity : AppCompatActivity() {
         val client = AsyncHttpClient()
         val params = RequestParams()
         client[
-                NOW_PLAYING_URL,
+                TOP_RATED_URL,
         params,
         object: JsonHttpResponseHandler(){
             override fun onFailure(
