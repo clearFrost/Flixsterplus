@@ -2,7 +2,7 @@
 
 Submitted by: **Jason Kang**
 
-**Flixster+** is a movie browsing app that allows users to browse top rated movies in [movieDB](https://www.themoviedb.org/?language=en-US)
+**Flixster+** is a movie browsing app that allows users to browse top rated movies in [The Movie Database](https://www.themoviedb.org/?language=en-US)
 
 Time spent: **15** hours spent in total
 
