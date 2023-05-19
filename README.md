@@ -1,4 +1,4 @@
-# Android Project 4 - *Flixster+*
+# Android Project 4 - *Flixsterplus*
 
 Submitted by: **Jason Kang**
 
