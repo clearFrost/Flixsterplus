@@ -27,7 +27,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented user stories:
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with  [ScreenToGif](https://www.screentogif.com/) for Windows
-![](https://github.com/clearFrost/Showtime/blob/master/showtime1.gif)
+![](https://github.com/clearFrost/Showtime/blob/master/Showtime.gif)
 ![](https://github.com/clearFrost/Showtime/blob/master/showtime2.gif)
 
 ## Notes
